@@ -1,23 +1,19 @@
-Great! Here's the updated `README.md` tailored to your GitHub repository name **Resume-Injection**:
-
----
-
-# 🕵️ Resume-Injection
+#  Resume-Injection
 
 This project is a Python script that quietly enhances a PDF resume by injecting invisible text and custom metadata. It can be used for watermarking, tracking, embedding hidden cues for recruiters, or just for fun—purely for educational and personal use.
 
 ---
 
-## 📌 What Does It Do?
+##  What Does It Do?
 
-* 📝 Adds **custom metadata** to your PDF (like author, title, and keywords).
-* 👻 Injects **invisible white text** on the first few pages of the resume.
-* 💬 Embeds a small **annotation** to increase text visibility in PDF processors.
-* 📁 Saves the modified PDF to your **Downloads folder** by default.
+*  Adds **custom metadata** to your PDF (like author, title, and keywords).
+*  Injects **invisible white text** on the first few pages of the resume.
+*  Embeds a small **annotation** to increase text visibility in PDF processors.
+*  Saves the modified PDF to your **Downloads folder** by default.
 
 ---
 
-## ⚙️ How to Use
+## ⚙ How to Use
 
 ### 1. Clone the Repository
 
@@ -58,7 +54,7 @@ The enhanced version will be saved as `enhanced_resume.pdf` in your Downloads fo
 
 ---
 
-## ✅ Features
+##  Features
 
 * Invisible text injection using tiny white font
 * Lightweight metadata editing
@@ -67,13 +63,13 @@ The enhanced version will be saved as `enhanced_resume.pdf` in your Downloads fo
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠ Disclaimer
 
 This tool is for **educational and ethical use** only. Please **do not** use it for misleading or deceptive purposes. Always respect the intent and transparency of professional documents.
 
 ---
 
-## 💡 Possible Uses
+##  Possible Uses
 
 * Tag resumes with internal notes (e.g., "Recommended by manager")
 * Embed version information invisibly
@@ -81,7 +77,7 @@ This tool is for **educational and ethical use** only. Please **do not** use it 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Built by someone curious about what’s possible in a PDF file. If you like the project, give it a ⭐, suggest a feature, or fork it!
 
