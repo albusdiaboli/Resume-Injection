@@ -79,8 +79,4 @@ This tool is for **educational and ethical use** only. Please **do not** use it 
 
 ##  Author
 
-Built by someone curious about what’s possible in a PDF file. If you like the project, give it a ⭐, suggest a feature, or fork it!
-
----
-
-Would you like me to generate and provide this `README.md` file as a download now?
+Built by someone who is curious about what’s possible in a PDF file.
